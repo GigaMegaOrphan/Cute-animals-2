@@ -178,4 +178,8 @@ input:hover {
         width: 360px;
         background-color: pink;
     }
+
+    .title{
+        font-size: 60px;
+    }
   }
